@@ -1,8 +1,4 @@
 Hello my name is Mikhail! 
-My interest is the web
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=greatwzix&theme=tokyonight&bg)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=greatwzix&theme=tokyonight&bg)
 
 # 💻 Tech Stack:
 # Frontend:
@@ -16,5 +12,6 @@ My interest is the web
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-QA:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (pytest)
+# QA:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
