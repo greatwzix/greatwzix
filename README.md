@@ -1,4 +1,4 @@
-Hello my name is Mikhail! 
+# Hello my name is Mikhail! 
 
 # 💻 Tech Stack:
 # Frontend:
